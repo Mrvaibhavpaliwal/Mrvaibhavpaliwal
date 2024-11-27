@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mrvaibhavpaliwal
-- 👀 I’m interested in Data Analyst Role
-- 🌱 I’m currently learning Data Analysis 
-- 💞️ I’m looking to collaborate on Data Science and Data Analyst Position
+- 👀 I’m interested in Web Devlopment.
+- 🌱 I’m currently learning  Web Devlopment & Data Analysis 
+- 💞️ I’m looking to collaborate on Web Devlopment, Data Science and Data Analyst Position
 - 📫 How to reach me? 👉🏻 linkedin.com/in/mrvaibhavpaliwal/
 
 <!---
